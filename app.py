@@ -7,9 +7,9 @@ import nasapower
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import MinMaxScaler
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense, Dropout
+#import tensorflow as tf
+#from tensorflow.keras.models import Sequential
+#from tensorflow.keras.layers import LSTM, Dense, Dropout
 
 st.set_page_config(page_title="Advanced Grid Forecasting Engine", layout="wide")
 
