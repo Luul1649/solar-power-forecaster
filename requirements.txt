@@ -4,5 +4,4 @@ numpy
 nasa-power
 scikit-learn
 matplotlib
-tensorflow
 requests
