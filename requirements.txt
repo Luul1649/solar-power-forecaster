@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+nasa-power
+scikit-learn
+matplotlib
