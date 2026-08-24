@@ -2,7 +2,7 @@
 
 A production-ready, data-driven web application designed to forecast real-time solar grid availability for local distribution nodes in Kenya. This project serves as an end-to-end demonstration of leveraging Data Science and Machine Learning to optimize clean energy systems and mitigate climate instabilities.
 
-👉 **[Live Web Application Link](https://streamlit.io)** *(Replace with your actual live Streamlit URL)*
+👉 **[https://solar-power-forecaster-lewhamjmctznp7ifz9w65p.streamlit.app/])*
 
 ---
 
